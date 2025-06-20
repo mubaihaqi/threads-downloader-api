@@ -129,11 +129,12 @@ Response:
 
 ```json
 {
-"videoUrl": "...",
-"coverUrl": "...",
-"caption": "...",
-"username": "..."
+  "videoUrl": "...",
+  "coverUrl": "...",
+  "caption": "...",
+  "username": "..."
 }
+```
 
 ---
 
@@ -152,4 +153,7 @@ MIT — feel free to fork, adapt & deploy!
 ---
 
 Happy building... Adios..! 🚀✨`
+
+```
+
 ```
