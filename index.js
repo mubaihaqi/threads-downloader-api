@@ -1,6 +1,5 @@
 import express from "express";
 import fetch from "node-fetch";
-// import * as cheerio from "cheerio";
 import puppeteer from "puppeteer";
 
 const app = express();
